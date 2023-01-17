@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+/* .content{
+    margin: auto;
+    margin-top: 18%;
+    height: 100px;
+    width: 100px;
+    border: 2px dotted black;
+    background-color: chocolate; 
+    
+} */
+.main{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.content{
+    height: 100px;
+    width: 100px;
+    border: 2px dotted black;
+    background-color: chocolate;
+    margin-top: 20%;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
